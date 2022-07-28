@@ -1,0 +1,66 @@
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: turquoise;
+  additive-symbols: flex;
+  justify-content: space-between;
+  
+}
+.logo {
+  padding: 20px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-section { 
+  font-family: 'Bitter',serif;
+  display: inline-block;
+}
+.center-content {
+  justify-content: center;
+  display: block;
+  width: 50%;
+  height: auto;
+  margin: auto;
+}
+
+.left-side-content{
+  justify-content: left;
+  margin: 20;
+  display: block;
+  width: 50%;
+  height: 100%;
+}
+.right-side-content {
+  justify-content: right;
+  margin: auto;
+  display: block;
+  width: 20%;
+  height: auto;
+}
+.video {
+  margin: auto;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+.nav-btn {
+  list-style-type: none;
+  display: inline-block;
+  padding: 20px;
+}
+.nav-link {
+  color: black;
+  text-decoration: none;
+}
+body {
+background-image: url('sunrisewp.jpg');
+background-size: cover;}
+
